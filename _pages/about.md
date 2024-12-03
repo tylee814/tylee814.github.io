@@ -66,36 +66,32 @@ The International Journal of Internet, Broadcasting and Communication, vol. 18, 
 * 2020 **Scholarship for Grader**, Yonsei University  
 
 * 2019 **Gold Prize in the 13th Open Source SW Developer Competition**
-  + Hosted by Ministry of Science and ICT
+  + Hosted by the Ministry of Science and ICT of South Korea
   + Nationwide competition
 
 * 2019 **Bronze Prize in the 15th Hansung Engineering Competition**
-  + Hosted by Hansung University
 
 * 2019 **Top Academic Achievement Award**, Hansung University 
 
 * 2018 **2nd Prize in the 16th Embedded Software Competition**   
-  + Hosted by Ministry of Trade, Industry, and Energy   
+  + Hosted by the Ministry of Trade, Industry, and Energy of South Korea
   + Nationwide competition  
   + [Link: [News](https://news.chosun.com/pan/site/data/html_dir/2019/01/02/2019010200765.html)] 
                 
 * 2018 **2nd Prize in the 6th University Student Digital Solution Challenge (K-Hackathon)**    
-  + Hosted by Ministry of Science and ICT, South Korea  
+  + Hosted by the Ministry of Science and ICT, South Korea of South Korea
   + Nationwide competition
   + [Link: [News](https://news.chosun.com/pan/site/data/html_dir/2018/11/19/2018111901900.html)] 
 
-* 2018 **Gold Prize in the 14th Hansung Engineering Competition**
-  + Hosted by Hansung University  
+* 2018 **Gold Prize in the 14th Hansung Engineering Competition**  
 
 * 2018 **Work scholarship**, Hansung University 
 
 * 2018 **Scholarship for Academic Excellence**, Hansung University 
 
 * 2017 **1st Prize in the SK Start-up Competition** 
-  + Hosted by Hansung University 
 
 * 2017 **Bronze Prize in the 13th Hansung Engineering Competition**
-  + Hosted by Hansung University
 
 * 2016 **Work scholarship**, Hansung University 
 

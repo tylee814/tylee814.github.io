@@ -11,7 +11,7 @@ redirect_from:
 red { color: red }
 yellow { color: yellow }
 </style>
-
+<!--
 
 My research interests span the areas of network systems and distributed systems, particularly in cloud & edge computing, and distributed data-intensive systems. 
 
@@ -107,6 +107,8 @@ The International Journal of Internet, Broadcasting and Communication, vol. 18, 
 * 2020.03 ~ 2023.02 Yonsei University, M.S. in Computer Science 
 * 2015.03 ~ 2019.08 Hansung University, B.S. in Electronics & Information Engineering,   
 minor in Computer Engineering 
+
+-->
            
        
 
